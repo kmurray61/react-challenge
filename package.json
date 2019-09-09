@@ -1,0 +1,64 @@
+{
+  "name": "front-end-assessment2",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrandSourceDigital/front-end-assessment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrandSourceDigital/front-end-assessment/issues"
+  },
+  "homepage": "https://github.com/BrandSourceDigital/front-end-assessment#readme",
+  "description": "",
+  "devDependencies": {
+    "@babel/core": "^7.3.3",
+    "@babel/plugin-proposal-class-properties": "^7.3.3",
+    "@babel/preset-env": "^7.3.1",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.5",
+    "file-loader": "^3.0.1",
+    "html-webpack-plugin": "^3.2.0",
+    "nodemon": "^1.18.10"
+  },
+  "dependencies": {
+    "react-scripts": "3.1.1",
+    "@material-ui/core": "^3.9.3",
+    "@material-ui/icons": "^3.0.2",
+    "jss": "^9.8.7",
+    "jss-plugin-default-unit": "^10.0.0-alpha.7",
+    "lodash": "^4.17.15",
+    "prettier": "^1.18.2",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.2",
+    "react-dom": "^16.8.2",
+    "react-jss": "^8.6.1",
+    "react-redux": "^6.0.1",
+    "redux": "^4.0.4",
+    "redux-act": "^1.7.4",
+    "redux-logger": "^3.0.6"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
