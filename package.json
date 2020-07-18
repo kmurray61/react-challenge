@@ -29,7 +29,7 @@
     "@material-ui/icons": "^3.0.2",
     "jss": "^9.8.7",
     "jss-plugin-default-unit": "^10.0.0-alpha.7",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "prettier": "^1.18.2",
     "prop-types": "^15.7.2",
     "react": "^16.8.2",
